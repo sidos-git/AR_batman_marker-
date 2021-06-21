@@ -1,8 +1,8 @@
 # AR_batman_marker-
-Download marker for the base.
+<h2>Download marker for the base.<\h2>
 <img src="Batman _marker.png">
 
-Example
+<h2>Example<\h2>
 <img src="eg1.jpeg">
 <img src="eg2.jpeg">
 <img src="eg3.jpeg">
